@@ -2,7 +2,7 @@
 Analyzing and manipulating large volumes of datasets, insights, learning from others, and teamwork are activities that drive and inspire me. Curious, enthusiastic, and tenacious characterize me as a person. 
 
 - 🌱 I’m currently learning more about Data Analysis projects
-- 📫 How to reach me: paolalopezd93@gmail.com 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/paola-piety-314b2585/?locale=en_US">LinkedIn Paola Piety</a>
 - ⚡ Fluent in Spanish and English 
 
 <!--
